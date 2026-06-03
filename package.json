@@ -1,7 +1,7 @@
 {
   "name": "shiki-magic-move",
   "type": "module",
-  "version": "4.2.0",
+  "version": "1.4.0",
   "packageManager": "pnpm@11.1.3",
   "description": "Deprecated alias of `@shikijs/magic-move` — smoothly animated code blocks with Shiki",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
